@@ -1,4 +1,4 @@
-#自由门iOS版
+ #自由门iOS版
 可在 iPhone、iPad 上使用。
 
 請先安裝 TestFlight：

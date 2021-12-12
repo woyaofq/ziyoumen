@@ -1,4 +1,5 @@
-自由门iOS版可在 iPhone、iPad 上使用。
+#自由门iOS版
+可在 iPhone、iPad 上使用。
 
 請先安裝 TestFlight：
 https://apps.apple.com/us/app/testflight/id899247664
